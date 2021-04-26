@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-App para incentivar as pessoas a seguir os objetivos da ODS 🌎
+App para incentivar as pessoas a seguirem os objetivos da ODS 🌎
 
 ## 🔖 Layout
 
